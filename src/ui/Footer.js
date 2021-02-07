@@ -15,7 +15,7 @@ const Footer = (props) => (
     <Text sx={{ mx: 3, display: "inline-block" }}>
       My Github{" "}
       <a href="https://github.com/blakedav208">
-        
+        Here
       </a>
     </Text>
     <Text sx={{ mx: 3, display: "inline-block" }}>
