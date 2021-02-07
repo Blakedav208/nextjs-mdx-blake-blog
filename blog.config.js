@@ -1,7 +1,7 @@
 module.exports = {
   url: "https://nextjs-mdx-blog-starter.vercel.app/",
   title: "<backendBlake/>",
-  subtitle: "Content authoring with MDX. Powered by Next.js.", // longDescription : appears in landing page meta description
+  subtitle: "This is a blog where I will share my  journey into tech and all that goes along with it! Always looking to learn and get better.", // longDescription : appears in landing page meta description
   description:
     "This is a blog where I will share my  journey into tech and all that goes along with it! Always looking to learn and get better.",
   author: "Blake Davis",
