@@ -10,16 +10,16 @@ const Footer = (props) => (
     }}
   >
     <Text sx={{ mx: 3, display: "inline-block" }}>
-      Created by <a href="https://johnpolacek">John Polacek</a>
+      Blog by <a href="https://backendblake.com">Blake</a>
     </Text>
     <Text sx={{ mx: 3, display: "inline-block" }}>
-      Open sourced on{" "}
-      <a href="https://github.com/johnpolacek/nextjs-mdx-blog-starter">
-        Github
+      My Github{" "}
+      <a href="https://github.com/blakedav208">
+        
       </a>
     </Text>
     <Text sx={{ mx: 3, display: "inline-block" }}>
-      Follow <a href="https://twitter.com/johnpolacek">@johnpolacek</a>
+      Follow <a href="https://twitter.com/backendBlake">@backendBlake</a>
     </Text>
   </Box>
 )
